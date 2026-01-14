@@ -38,5 +38,5 @@
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter</a> •
   <a href="mailto:shivanshubahuguna3@gmail.com">Email</a>
 </p>
-![snake gif](https://github.com/shivansh003/shivansh003/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/shivansh003/shivansh003/blob/output/github-contribution-grid-snake-dark.svg)
 
